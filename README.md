@@ -49,7 +49,7 @@
 
 |데이터 히스토리 시각화 차트|
 |----------|
-|<img src="https://github.com/Juhyi/SmartSensorHub_toyproject/blob/main/images/mp003.png" higth= "600" width="700">|
+|<img src="https://github.com/Juhyi/SmartSensorHub_toyproject/blob/main/images/mp004.png" higth= "600" width="700">|
 
 
 
