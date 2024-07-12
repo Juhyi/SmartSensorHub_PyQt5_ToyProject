@@ -1,4 +1,4 @@
-# SmartSensorHub_PyQt5_ToyProject
+# SmartSensorHub_ToyProject
 ### 🚨🚦PyQt5 TOYPROJECT 리포지토리 : SmartSensorHub 
 
 ## 🧾프로젝트 소개
